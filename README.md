@@ -109,14 +109,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <img src="365.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
     <p><span class="w3-large w3-margin-right">Zipho Tile.</span> Co Founder.</p>
     <p>This is the one person who could illustrate and display our logo as well as the meaing behind it.</p>
-  <!-- End About Section -->
-  
-  <!-- Portfolio Section --->
-
-    <!-- Grid for photos -->
-    
-    <!-- End photo grid -->
-  <!-- End Portfolio Section -->
+ 
   </div>
 
   <!-- Contact Section -->
@@ -131,10 +124,8 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 			<p align="center"/p><a href="http://www.linkedin.com/in/emmanuel-madi-56063610b"></a>  <i class="fa fa-linkedin w3-hover-opacity"></i>
     </div><br>
     
-  <!-- End Contact Section -->
    </div>
   
-    <!-- Footer -->
   <footer class="w3-content w3-padding-64 w3-text-grey w3-medium">
     <i class="fa fa-facebook-official w3-hover-opacity"></i>
     <i class="fa fa-twitter w3-hover-opacity"></i>
@@ -143,7 +134,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <!-- End footer -->
   </footer>
 
-<!-- END PAGE CONTENT -->
 </div>
 
 </body>
