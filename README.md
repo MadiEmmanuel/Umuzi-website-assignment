@@ -87,10 +87,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       <div class="w3-dark-grey" style="height:28px;width:40%"></div>
     </div>
     </div><br>
-    <li> </li>
-
-    <button class="btn"><i class="fa fa-download"></i> Download Resume <i href="Emmanuel Madi CV.pdf"/i> </button>
-         
+    <li> </li> 
     <!-- Grid for pricing tables -->
     
     </div>
