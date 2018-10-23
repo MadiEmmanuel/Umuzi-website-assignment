@@ -89,12 +89,10 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     </div><br>
     <li> </li>
 
-    <button class="w3-button w3-light-grey w3-padding-large w3-section">
-      <i class="fa fa-download"></i> <a href="Emmanuel Madi.pdf" </a> Download Resume 
+    <button class="button - light-grey -padding-large -section">
+      <i class="fa fa-download"></i> <a href="Emmanuel Madi CV.pdf" </a> Download Resume 
     </button>
-       
-   
-    
+         
     <!-- Grid for pricing tables -->
     
     </div>
