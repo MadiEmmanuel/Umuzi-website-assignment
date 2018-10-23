@@ -86,8 +86,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:40%"></div>
     </div>
-    </div><br>
-    <li> </li> 
     <!-- Grid for pricing tables -->
     
     </div>
