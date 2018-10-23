@@ -94,7 +94,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 	
     <h3 class="padding-24 w3-text-light-grey">My Reputation</h3>  
     <img src="ACP.png" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
-    <p><span class="w3-large w3-margin-right">Make Umuzi Better<a, a{color:red;} href="https://docs.google.com/document/d/1vdg7V5U-FdS9yjPGOpBSBQFrRCUvICjs1cPuBpJxDzE/edit/"></span> Human Centered Design Brief.</p>
+    <p><span class="w3-large w3-margin-right">Make Umuzi Better</span> Human Centered Design Brief.</p>
     <p>We were tasked to make the Umuzi better food. The angle we choose was to create a food culture title Umuzi Food Club(UFC).</p>
 	<p>This is a food guide menu-this has most of the food outlets within the raduis that recruit and staff can use to farmiliarise themselves with lunch menus offerings at various palces.The guide also shows outlets that offer deliveries and those that offer discounts.</p>
 	<p> This afforded people to be budget savvy and promote variety of eating habits. Problem solved: People turned to be buy from outlets that only current recruits and stuff generally knew. Learnings: People who buy out lunch have a varying lunch cost that's affected by their pay days.</p><br>
