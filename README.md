@@ -111,16 +111,13 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <hr style="width:200px" class="w3-opacity">
 
     <div class="w3-section">
-	<p><i class="fa fa-map-marker fa-fw w3-text-white w3-xlarge w3-margin-right"> Wattville, Benoni</p>
-	<p><i class="fa fa-phone fa-fw w3-text-white w3-xlarge w3-margin-right">Phone: 073 8028 772</p>
-	<p><i class="fa fa-envelope fa-fw w3-text-white w3-xlarge w3-margin-right">Email:emmanel.madi@umuzi.org</p>
+	<p><i class="fa fa-map-marker fa-fw w3-text-white w3-xlarge w3-margin-left"> Wattville, Benoni</p>
+	<p><i class="fa fa-phone fa-fw w3-text-white w3-xlarge w3-margin-left">Phone: 073 8028 772</p>
+	<p><i class="fa fa-envelope fa-fw w3-text-white w3-xlarge w3-margin-left">Email:emmanel.madi@umuzi.org</p>
 	<p align="center"/p><a href="http://www.linkedin.com/in/emmanuel-madi-56063610b"></a><i class="fa fa-linkedin w3-hover-opacity"></i>
     </div><br>
     
    </div>
-  
-
-    <i class="fa fa-linkedin w3-hover-opacity"></i>
     <p class="w3-medium">Created by Emmanuel Madi<a  target="_blank" class="w3-hover-text-green"></a></p>
   <!-- End footer -->
   </footer>
